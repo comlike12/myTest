@@ -13,6 +13,12 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
+    print_hi('짜증난다..................')
 
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 확인
