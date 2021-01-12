@@ -13,8 +13,10 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-    print("goodddddddddddddddddddddddddddddddddddd")
-    print("goodddddddddddddddddddddddddddddddddddd")
-    print("goodddddddddddddddddddddddddddddddddddd")
+    print("not good")
+
+    print("new")
+
+    print("user")
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 확인
