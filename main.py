@@ -14,6 +14,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     print_hi('PyCharm')
+    print_hi('PyCharm')
+
+    print_hi('PyCharm')
 
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 확인
