@@ -19,4 +19,13 @@ if __name__ == '__main__':
 
     print("user")
 
+    print("wow good news")
+
+    print("wow good news")
+
+    print("wow good news")
+
+    print("wow good news")
+
+    print("wow good news")
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 확인
